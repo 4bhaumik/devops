@@ -1,1 +1,2 @@
 "file b version 2" brach feature
+test squash merge

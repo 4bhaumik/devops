@@ -1,2 +1,6 @@
 "file b version 2" brach feature
+<<<<<<< HEAD
 test squash merge
+=======
+test squash merge
+>>>>>>> feature
